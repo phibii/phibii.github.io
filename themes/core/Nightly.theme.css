@@ -2,12 +2,12 @@
  * @name         Nightly
  * @description  A reimagined attempt on Discord's dark theme.
  * @author       Phibi
- * @version      1.0.3
- * @source       http://hasthelargehadroncolliderdestroyedtheworldyet.com/
+ * @version      1.1.0
+ * @source       https://phibii.github.io/themes/core/Nightly.theme.css
  * @authorId     348609267252723713
  */
 
 /* ⁞[IMPORTS]⁞ */
-/* @import "URL_HERE"; */
+@import "https://phibii.github.io/themes/Nightly-Theme/nightly.css";
 
 /* ⁞[CUSTOMIZATION]⁞ */
