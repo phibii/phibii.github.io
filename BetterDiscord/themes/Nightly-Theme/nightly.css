@@ -3,15 +3,15 @@
 /* ⁞[BASE]⁞ */
 
 /* Discord watermark */
-.wordmark-2iDDfm svg path{  /* Disables Original "Discord" Image */
+.da-wordmark svg path{  /* Disables Original "Discord" Image */
     display: none; 
 }
-.wordmark-2iDDfm{
+.da-wordmark{
     background-color: transparent;
     opacity: .9;
     pointer-events: all;
 }
-.wordmark-2iDDfm svg{
+.da-wordmark svg{
     background-color: transparent;
     background-image: url(https://i.imgur.com/elyW9lA.png);
     background-size: contain;
