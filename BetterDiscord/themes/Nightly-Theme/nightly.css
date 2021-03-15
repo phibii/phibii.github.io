@@ -2,7 +2,7 @@
 
 /* ⁞[BASE]⁞ */
 
-    /* Windows OS titlebar*/
+    /* Windows OS titlebar */
 .typeWindows-1za-n7 {
     background-color: #1C1B29;
 }
@@ -10,6 +10,33 @@
     margin-top: 0px;
 }
 
+.winButton-iRh8-Z {
+    top: -2px;
+    width: 40px; /*28*/
+    height: 20px; /*22*/
+}
+
+    /* Discord watermark */
+.wordmark-2iDDfm svg path{  /* Disables Original "Discord" Image */
+    display: none; 
+}
+.wordmark-2iDDfm{
+    background-color: transparent;
+    opacity: .9;
+    pointer-events: all;
+}
+.wordmark-2iDDfm svg{
+    background-color: transparent;
+    background-image: url(https://i.imgur.com/elyW9lA.png);
+    background-size: contain;
+    width: 1px;
+    height: 20px;
+    padding-left: 6px;
+    padding-right: 15px;
+    margin-left: -3.5px;
+    margin-top: -5px;
+    display: block;
+}
 
 /* ⁞[SERVER LIST]⁞ */
 .scroller-2TZvBN {
